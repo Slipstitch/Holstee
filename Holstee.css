@@ -1,0 +1,99 @@
+.oswald {
+	font-family: 'Oswald', sans-serif;
+}
+.quattro {
+	font-family: 'Quattrocento', serif;
+}
+.seize {
+	font-size:26px;
+}
+#top-left {
+	background:#BF3F52;
+	width:212px;
+	padding:25px;
+	font-size:24px;
+	font-weight:bold;
+    margin:0px;
+}
+#top-right {
+	background:#88BF3F;
+	width:212px;
+	padding:34px 25px 32px 25px;
+	font-size:20px;
+	font-weight:bold;
+	margin:0px;
+	
+}
+#top-middle {
+	background:#F7F468;
+	width:212px;
+	padding:33px 25px 32px 25px;
+	font-size:20px;
+	font-weight:bold;
+	margin:0px;
+}
+#tv-time {
+	line-height: 35px;
+}
+#short-life {
+	line-height: 35px;
+}
+
+
+#mid-left {
+	background:#88BF3F;
+	width:212px;
+	padding:34px 25px 32px 25px;
+	font-size:20px;
+	font-weight:bold;
+	margin:0px;
+	
+}
+#mid-right {
+	background:#3F83BF;
+	width:212px;
+	padding:34px 25px 32px 25px;
+	font-size:20px;
+	font-weight:bold;
+	margin:0px;
+	
+}
+
+#lr-divs {
+	background:#BF3F52;
+	width:212px;
+	padding:34px 25px 34px 25px;
+	font-size:24px;
+	font-weight:bold;
+	margin:0px;
+}
+
+#short-life {
+	line-height: 35px;
+}
+#lower-topleft {
+	background:#F7F468;
+	width:212px;
+	padding:43px 25px 43px 25px;
+	font-size:22px;
+	font-weight:bold;
+	margin:0px;
+
+}
+#lower-bottomleft {
+	background:#3F83BF;
+	width:212px;
+	padding:45px 25px 45px 25px;
+	font-size:21px;
+	font-weight:bold;
+	margin:0px;
+
+}
+
+#left-column {
+	float: left;
+}
+
+#right-column {
+	float: left;
+}
